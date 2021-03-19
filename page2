@@ -1,8 +1,6 @@
 <html>
 <head>
-<title>Redirection en HTML</title>
-
-<meta http-equiv="refresh" content="5; URL=file:///v:/TABUTI">
+<a href="file:///v:/TABUTI">
 </head>
 
 <body>
